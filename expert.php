@@ -30,10 +30,8 @@ print_r($week);
 
 new_exercise(5);
 $arr = [];
-$letter = 'a'; 
-while($letter < 'z') {
-    array_push($arr, $letter);
-    $letter++;
+for($letter='a'; $letter!== 'aa'; $letter++){
+    array_push($arr, $letter);   
 }
 
 print_r($arr); // Array ([0] => a, [1] => b, [2] => c, ...) a-z alphabetical array
