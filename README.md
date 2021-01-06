@@ -5,8 +5,6 @@
 - Duration: `1 day`
 - Team challenge : `solo`
 
-💡 Don't forget that you can [share your feedback](https://docs.google.com/forms/d/e/1FAIpQLScUNMbIiICJyc5ih1pwFyTq2lfBNJKXZELvD9LZ-mvA2SYIPg/viewform) about this exercise if you like
-
 ## Learning objectives
 - understanding the root of bug fixing
 - know what print_r, var_dump, die, echo, exit, break do
